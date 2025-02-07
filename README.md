@@ -1,3 +1,12 @@
+Steps to run the simulation:
+1. Import the project on Intellij and set it accordingly
+2. Open PureEdgeSim/BQProfit/SecondProblem.java file select the algorithm/strategy to be used and comment the rest.
+3. For iteration we can modify the file PureEdgeSim/data_processor/DataProcessor.java with the number of iterations (jobs/applications) using variable MAX_ITR.
+4. We are good to go for executing it.
+5. The datasets are present under jobs
+
+
+Following are related to PureEdgeSim.
 # PureEdgeSim
 
 PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments
