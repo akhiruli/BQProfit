@@ -6,28 +6,22 @@ Steps to run the simulation:
 5. The datasets are present under jobs
 
 
-Following are related to PureEdgeSim.
-# PureEdgeSim
-
-PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build Status](https://travis-ci.com/CharafeddineMechalikh/PureEdgeSim.svg?branch=master)](https://travis-ci.com/CharafeddineMechalikh/PureEdgeSim) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7bcee5c75c3741b5923e0158c6e79b37)](https://www.codacy.com/gh/CharafeddineMechalikh/PureEdgeSim/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CharafeddineMechalikh/PureEdgeSim&amp;utm_campaign=Badge_Grade) [![Maven Central](https://img.shields.io/maven-central/v/com.mechalikh/pureedgesim.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.mechalikh%22%20AND%20a:%22pureedgesim%22) [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/7bcee5c75c3741b5923e0158c6e79b37)](https://www.codacy.com/gh/CharafeddineMechalikh/PureEdgeSim/dashboard?utm_source=github.com&utm_medium=referral&utm_content=CharafeddineMechalikh/PureEdgeSim&utm_campaign=Badge_Coverage)
-
-## 📝 Please Cite It As (Kindly do not use the github link, othewise, your citation will not be counted):
-
-Mechalikh, C., Taktak, H., & Moussa, F. (2021). PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments. Computer Science and Information Systems, 18(1), 43-66.
+## 📝 Please Cite It As:
+BQProfit: Budget and QoS aware task offloading and resource allocation for Profit maximization under MEC platform
 
 Bibtex:
 
 ```groovy
-@article{mechalikh2021pureedgesim,
-  title={PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments},
-  author={Mechalikh, Charafeddine and Taktak, Hajer and Moussa, Faouzi},
-  journal={Computer Science and Information Systems},
-  volume={18},
-  number={1},
-  pages={43--66},
-  year={2021}
+@article{ISLAM2025103447,
+title = {BQProfit: Budget and QoS aware task offloading and resource allocation for Profit maximization under MEC platform},
+journal = {Journal of Systems Architecture},
+volume = {166},
+pages = {103447},
+year = {2025},
+issn = {1383-7621},
+doi = {https://doi.org/10.1016/j.sysarc.2025.103447},
+url = {https://www.sciencedirect.com/science/article/pii/S1383762125001195},
+author = {Akhirul Islam and Manojit Ghose}
 }
 ```
 
